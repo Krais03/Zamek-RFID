@@ -26,3 +26,6 @@ Schemat elektryczny połączeń:
 
 <img width="656" height="873" alt="image" src="https://github.com/user-attachments/assets/9eedacab-4e74-494b-a020-429ecd3004ca" />
 
+Zdjęcia prototypu gotowego urządzenia:
+
+![20251215_233313](https://github.com/user-attachments/assets/7af5b863-9bba-43f6-ae52-16f81efcc177)
